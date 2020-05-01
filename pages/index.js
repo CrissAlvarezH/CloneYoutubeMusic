@@ -15,7 +15,7 @@ export default () => {
                 </div>
 
                 <div className="mt-10 sm:mt-24">
-                    <p className="text-base sm:text-lg text-gray-600 uppercase ml-4 sm:ml-12">VOLVER A ESCUCHAR</p>
+                    <p className="text-base sm:text-lg text-gray-600 uppercase ml-4 sm:ml-16">VOLVER A ESCUCHAR</p>
                     <ListHorizontal title="Tus música para la noche" list={night_music}/>
                 </div>
 

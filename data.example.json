@@ -107,5 +107,55 @@
             "type": "Sencillo",
             "singer": "Mike Schiavo"
         }
+    ],
+    "hotlist_videos": [
+        {
+            "url_img": "https://cdn.smehost.net/sonymusiclatincom-uslatinprod/wp-content/uploads/2019/08/unnamed-2019-08-16T153510.120.jpg",
+            "title": "Caso perdido",
+            "singer": "Manuel Turizo",
+            "views": 349056
+        },
+        {
+            "url_img": "https://cdn.smehost.net/sonymusiclatincom-uslatinprod/wp-content/uploads/2019/08/unnamed-2019-08-16T153510.120.jpg",
+            "title": "Caso perdido",
+            "singer": "Manuel Turizo",
+            "views": 349056
+        },
+        {
+            "url_img": "https://cdn.smehost.net/sonymusiclatincom-uslatinprod/wp-content/uploads/2019/08/unnamed-2019-08-16T153510.120.jpg",
+            "title": "Caso perdido",
+            "singer": "Manuel Turizo",
+            "views": 349056
+        },
+        {
+            "url_img": "https://cdn.smehost.net/sonymusiclatincom-uslatinprod/wp-content/uploads/2019/08/unnamed-2019-08-16T153510.120.jpg",
+            "title": "Caso perdido",
+            "singer": "Manuel Turizo",
+            "views": 349056
+        },
+        {
+            "url_img": "https://cdn.smehost.net/sonymusiclatincom-uslatinprod/wp-content/uploads/2019/08/unnamed-2019-08-16T153510.120.jpg",
+            "title": "Caso perdido",
+            "singer": "Manuel Turizo",
+            "views": 349056
+        },
+        {
+            "url_img": "https://cdn.smehost.net/sonymusiclatincom-uslatinprod/wp-content/uploads/2019/08/unnamed-2019-08-16T153510.120.jpg",
+            "title": "Caso perdido",
+            "singer": "Manuel Turizo",
+            "views": 349056
+        },
+        {
+            "url_img": "https://cdn.smehost.net/sonymusiclatincom-uslatinprod/wp-content/uploads/2019/08/unnamed-2019-08-16T153510.120.jpg",
+            "title": "Caso perdido",
+            "singer": "Manuel Turizo",
+            "views": 349056
+        },
+        {
+            "url_img": "https://cdn.smehost.net/sonymusiclatincom-uslatinprod/wp-content/uploads/2019/08/unnamed-2019-08-16T153510.120.jpg",
+            "title": "Caso perdido",
+            "singer": "Manuel Turizo",
+            "views": 349056
+        }
     ]
 }
