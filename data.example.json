@@ -1,0 +1,111 @@
+{
+    "favorites": [
+        {
+            "id": 1,
+            "url_img": "https://direct.rhapsody.com/imageserver/images/alb.241237218/600x600.jpg",
+            "title": "Talking Body",
+            "type": "Sencillo",
+            "singer": "Mike Schiavo"
+        },
+        {
+            "id": 2,
+            "url_img": "https://direct.rhapsody.com/imageserver/images/alb.241237218/600x600.jpg",
+            "title": "Talking Body",
+            "type": "Sencillo",
+            "singer": "Mike Schiavo"
+        },
+        {
+            "id": 3,
+            "url_img": "https://direct.rhapsody.com/imageserver/images/alb.241237218/600x600.jpg",
+            "title": "Talking Body",
+            "type": "Sencillo",
+            "singer": "Mike Schiavo"
+        },
+        {
+            "id": 4,
+            "url_img": "https://direct.rhapsody.com/imageserver/images/alb.241237218/600x600.jpg",
+            "title": "Talking Body",
+            "type": "Channel",
+            "singer": "Mike Schiavo"
+        },
+        {
+            "id": 5,
+            "url_img": "https://direct.rhapsody.com/imageserver/images/alb.241237218/600x600.jpg",
+            "title": "Talking Body",
+            "type": "Sencillo",
+            "singer": "Mike Schiavo"
+        },
+        {
+            "id": 6,
+            "url_img": "https://direct.rhapsody.com/imageserver/images/alb.241237218/600x600.jpg",
+            "title": "Talking Body",
+            "type": "Sencillo",
+            "singer": "Mike Schiavo"
+        },
+        {
+            "id": 7,
+            "url_img": "https://direct.rhapsody.com/imageserver/images/alb.241237218/600x600.jpg",
+            "title": "Talking Body",
+            "type": "Sencillo",
+            "singer": "Mike Schiavo"
+        },
+        {
+            "id": 8,
+            "url_img": "https://direct.rhapsody.com/imageserver/images/alb.241237218/600x600.jpg",
+            "title": "Talking Body",
+            "type": "Sencillo",
+            "singer": "Mike Schiavo"
+        },
+        {
+            "id": 9,
+            "url_img": "https://direct.rhapsody.com/imageserver/images/alb.241237218/600x600.jpg",
+            "title": "Talking Body",
+            "type": "Channel",
+            "singer": "Mike Schiavo"
+        },
+        {
+            "id": 10,
+            "url_img": "https://direct.rhapsody.com/imageserver/images/alb.241237218/600x600.jpg",
+            "title": "Talking Body",
+            "type": "Sencillo",
+            "singer": "Mike Schiavo"
+        },
+        {
+            "id": 11,
+            "url_img": "https://direct.rhapsody.com/imageserver/images/alb.241237218/600x600.jpg",
+            "title": "Talking Body",
+            "type": "Sencillo",
+            "singer": "Mike Schiavo"
+        }
+    ],
+    "night_music": [
+        {
+            "id": 1,
+            "url_img": "https://direct.rhapsody.com/imageserver/images/alb.241237218/600x600.jpg",
+            "title": "Talking Body",
+            "type": "Video",
+            "singer": "Mike Schiavo"
+        },
+        {
+            "id": 2,
+            "url_img": "https://direct.rhapsody.com/imageserver/images/alb.241237218/600x600.jpg",
+            "title": "Talking Body",
+            "type": "Channel",
+            "singer": "Mike Schiavo"
+        },
+        {
+            "id": 3,
+            "url_img": "https://direct.rhapsody.com/imageserver/images/alb.241237218/600x600.jpg",
+            "title": "Talking Body",
+            "type": "Sencillo",
+            "singer": "Mike Schiavo"
+        },
+        {
+            "id": 4,
+            "url_img": "https://direct.rhapsody.com/imageserver/images/alb.241237218/600x600.jpg",
+            "title": "Talking Body",
+            "type": "Sencillo",
+            "singer": "Mike Schiavo"
+        }
+    ]
+}
