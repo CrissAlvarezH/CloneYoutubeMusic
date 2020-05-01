@@ -6,10 +6,10 @@ export default function ItemSong(props) {
     let isLarge = type === 'Video'
 
     return (    
-        <div className="flex-shrink-0 text-white pr-6">
+        <div className="flex-shrink-0 text-white pr-3 sm:pr-6">
             <img 
                 className={
-                    "h-48 object-cover" + (isRoundedImg ? " rounded-full " : " rounded ") + (isLarge ? " w-64 " : " max-w-2xl ")
+                    "h-40 sm:h-48 object-cover" + (isRoundedImg ? " rounded-full " : " rounded ") + (isLarge ? " w-64 " : " max-w-2xl ")
                 }
                 alt="Image from album"
                 src={url_img}/>

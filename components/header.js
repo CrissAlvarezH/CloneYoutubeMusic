@@ -52,7 +52,7 @@ export default function Header(props) {
             </div> 
 
             {/* menu icons (responsive: medium long screen) */}
-            <div className="w-full absolute top-0 flex justify-center items-center h-full md:hidden">
+            <div className="w-full absolute top-0 justify-center items-center h-full hidden sm:flex md:hidden">
                 <ul className="flex text-white text-xl text-gray-600 font-medium cursor-pointer">
                     <li className="px-5 text-white" onClick={onClickPrincipal}>
                         <svg className="h-5 w-5 fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
