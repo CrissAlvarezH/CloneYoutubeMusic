@@ -4,20 +4,28 @@ import Search from '../components/search'
 
 import Router from 'next/router'
 
-export default function MainLayout(props) {
+import {connect} from 'react-redux' 
+
+import {showSearch} from '../redux/reducers/search'
+
+
+function MainLayout(props) {
+    const {isShowSearch, dispatch} = props
 
     let eventsMenu = {
         onClickHome: () => Router.push('/'),
         onClickHotlist: () => Router.push('/hotlist'),
         onClickLibrary: () => Router.push('/'),
-        onClickSearch: () => Router.push('/'),
+        onClickSearch: () => dispatch(showSearch())
     }
 
     return (
         <div className="h-screen overflow-y-scroll">
             <Header {...eventsMenu}/>
 
-            <div className="absolute w-full mt-3 top-0 flex justify-center hidden">
+            <div 
+                className={"absolute w-full mt-3 top-0 flex justify-center z-20" + (!isShowSearch ? " hidden " : "")}
+                >
                 <div className="w-9/10 sm:w-3/5">
                     <Search />
                 </div>
@@ -31,3 +39,11 @@ export default function MainLayout(props) {
         </div>
     )
 }
+
+const mapStateToProps = state => {
+    return {
+        isShowSearch: state.search.showSearch
+    }
+}
+
+export default connect(mapStateToProps)(MainLayout)

@@ -7,8 +7,8 @@ export default function GridVideos(props) {
         <div className="flex flex-wrap">
             {
                 videos.map(video => (
-                    <div className="w-full md:w-1/2 flex-shrink-0">
-                        <ItemVideo {...video} key={video.id}/>
+                    <div className="w-full md:w-1/2 flex-shrink-0" key={video.id}>
+                        <ItemVideo {...video} />
                     </div>
                 ))
             }

@@ -1,4 +1,3 @@
-import './../styles.css'
 import MainLayout from '../layouts/main-layout'
 import ListHorizontal from './../components/list-horizontal'
 

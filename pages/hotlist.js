@@ -1,4 +1,3 @@
-import './../styles.css'
 import MainLayout from '../layouts/main-layout'
 import GridVideos from '../components/grid-videos'
 
